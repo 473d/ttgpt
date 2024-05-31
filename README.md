@@ -1,0 +1,2 @@
+# ttgpt
+text to chatgbt
